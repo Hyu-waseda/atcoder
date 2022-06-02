@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//調べたい条件式(keyの位置を調べたかったらmid >= key)
+//調べたい条件式
+//(keyの位置を調べたかったらmid >= key)
+//mid >= key key以上の数字が最初に現れるindex
 bool P(int mid, int key)
 {
 	if(mid >= key)
