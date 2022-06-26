@@ -3,6 +3,8 @@
 		"iostream": "cpp",
 		"vector": "cpp",
 		"map": "cpp",
-		"random": "cpp"
+		"random": "cpp",
+		"__tuple": "cpp",
+		"tuple": "cpp"
 	}
 }
