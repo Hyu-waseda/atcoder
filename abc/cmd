@@ -1,3 +1,5 @@
 g++ main.cpp
 oj t -c "./a.out"
 acc submit main.cpp
+
+
